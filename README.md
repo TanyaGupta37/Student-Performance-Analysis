@@ -115,5 +115,5 @@ This project demonstrates how data analysis and machine learning can be used to 
 
 ## 👩‍💻 Authors
 **Tanya Gupta**  
-**Khushboo Rajpal** 
+**Khushboo Rajpal** <br>
 B.Tech CSE – Machine Learning Project
