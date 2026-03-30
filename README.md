@@ -1,5 +1,3 @@
-# Student-Performance-Analysis
-
 # 🎓 Student Performance Analysis & Prediction
 
 ## 📌 Overview
